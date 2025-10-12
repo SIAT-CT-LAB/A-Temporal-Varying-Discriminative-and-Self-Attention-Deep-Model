@@ -1,6 +1,3 @@
-@ -0,0 +1,118 @@
-# [U-Mamba](https://wanglab.ai/u-mamba.html)
-
 Official repository for TVGD: A-Temporal-Varying-Discriminative-and-Self-Attention-Deep-Model
 
 ## Installation 
