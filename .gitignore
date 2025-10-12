@@ -3,3 +3,8 @@
 *.pkl
 *.npz
 *.npy
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
