@@ -1,10 +1,27 @@
-*.pth
-*.pt
-*.pkl
+# 医学影像/数据
+data/
+datasets/
+*.nii
+*.nii.gz
 *.npz
 *.npy
+*.pkl
+
+# 模型权重
+*.pth
+*.pt
+
+# 结果输出
+output/
+results/
+runs/
+logs/
+nnUNet_preprocessed/
+nnUNet_results/
+
+# Python 缓存/IDE
+__pycache__/
 *.pyc
-*.pyo
-*.pyd
 *.log
-*.tmp
+.vscode/
+.idea/
