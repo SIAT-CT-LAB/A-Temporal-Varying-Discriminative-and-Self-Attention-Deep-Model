@@ -1,4 +1,3 @@
-# 医学影像/数据
 data/
 datasets/
 *.nii
@@ -6,20 +5,14 @@ datasets/
 *.npz
 *.npy
 *.pkl
-
-# 模型权重
 *.pth
 *.pt
-
-# 结果输出
 output/
 results/
 runs/
 logs/
 nnUNet_preprocessed/
 nnUNet_results/
-
-# Python 缓存/IDE
 __pycache__/
 *.pyc
 *.log
